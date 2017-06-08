@@ -18,7 +18,7 @@ For **project 3**, I created two web applications that display 20 photos from Fl
 > [500px App](http://pages.uoregon.edu/bmulder/281/get-500px.html)
 
 
-For **project 4**, I created an Unsplash web application, learned how to use the YouTube API, and created a YouTube web application.
+For **project 4**, I created an Unsplash web application and created a YouTube web application.
 
 > [Project 4 Page](https://uo-cit.github.io/p4-17s-baileemulder/)
 
