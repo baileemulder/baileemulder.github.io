@@ -5,23 +5,23 @@ Here, you can find what I worked on in Computer Information Technology 281, Web 
 
 For **project 2**, I created a Github user page and a Github project page.
 
-> [Project 2 Page](https://github.com/UO-CIT/p2-17S-baileemulder)
+> [Project 2 Page](https://uo-cit.github.io/p2-17S-baileemulder/)
 
 > [Hello-world](https://github.com/baileemulder/hello-world.git)
 
 For **project 3**, I created two web applications that display 20 photos from Flickr and 500px, respectively.
 
-> [Project 3 Page](https://github.com/UO-CIT/p3-17s-baileemulder)
+> [Project 3 Page](https://uo-cit.github.io/p3-17s-baileemulder/)
 
 > [Flickr App](http://pages.uoregon.edu/bmulder/281/get-Flickr.html)
 
 > [500px App](http://pages.uoregon.edu/bmulder/281/get-500px.html)
 
 
-For **project 4**, I created an Unsplash web application, learned how to use the YouTube API, and created a YouTube web application.
+For **project 4**, I created an Unsplash web application and created a YouTube web application.
 
-> [Project 4 Page](https://github.com/UO-CIT/p4-17s-baileemulder)
+> [Project 4 Page](https://uo-cit.github.io/p4-17s-baileemulder/)
 
-> [Unsplash App](https://p4-baileemulder.now.sh/)
+> [Unsplash App](https://p4-bmulder.now.sh/get-Unsplash.html)
 
 > [YouTube App](https://YouTubeApp-baileemulder.now.sh/)
