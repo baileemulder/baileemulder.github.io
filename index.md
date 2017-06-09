@@ -7,8 +7,6 @@ For **project 2**, I created a Github user page and a Github project page.
 
 > [Project 2 Page](https://uo-cit.github.io/p2-17S-baileemulder/)
 
-> [Hello-world](https://github.com/baileemulder/hello-world.git)
-
 For **project 3**, I created two web applications that display 20 photos from Flickr and 500px, respectively.
 
 > [Project 3 Page](https://uo-cit.github.io/p3-17s-baileemulder/)
